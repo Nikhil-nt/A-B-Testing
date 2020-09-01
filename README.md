@@ -7,7 +7,7 @@ Worked to understand the results of an A/B test run by an e-commerce website. Th
 * Computed the conversion rates
 * Ran hypothesis test and calculated p-values.
 * Performed z-test and got the same results as the hypothesis test.
-* Performed logistic regression approach to achive the same results.
+* Performed logistic regression approach to achieve the same results.
 
 ## Requirements
 * Numpy
